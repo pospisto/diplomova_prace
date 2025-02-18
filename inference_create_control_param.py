@@ -1,7 +1,7 @@
 
 import matplotlib.pyplot as plt
 import matplotlib
-matplotlib.use('TkAgg')
+#matplotlib.use('TkAgg')
 import numpy as np
 import argparse
 import librosa as li
